@@ -12,3 +12,13 @@ This analysis explores sales performance, customer purchasing behavior, and cust
 - Explore customer behavior using transaction-level sales data.
 - Segment customers into distinct groups based on purchasing behavior.
 - Demonstrate how customer segmentation can provide insights into customer value and engagement.
+
+## Dataset
+
+This analysis uses the Online Retail II dataset from the UCI Machine Learning Repository. The dataset was created by Daqing Chen and was donated to the UCI Machine Learning Repository on September 20, 2019.
+
+The data contains transactional data from a UK-based, registered, non-store online retail business between December 1, 2009 and December 9, 2011. The company primarily sells unique all-occasion giftware products, and many of its customers are wholesalers.
+
+The dataset includes over 1 million transaction records and contains detailed information about customer purchases, products, quantities sold, pricing, transaction dates, and customer locations.
+
+This dataset is commonly used for business analytics, customer behavior analysis, sales analysis, and customer segmentation.
