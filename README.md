@@ -78,3 +78,9 @@ The dataset contains some missing values related to customer identification info
 - Pandas
 - Matplotlib
 - Scikit-learn
+
+## SQL Analysis
+
+## Conclusion
+
+## How to Use This Project
