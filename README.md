@@ -47,3 +47,34 @@ The dataset contains some missing values related to customer identification info
 ### 1) Which countries generate the most sales revenue?
 
 ### Key Findings
+
+### 2) Which products generate the highest sales revenue?
+
+### Key Findings
+
+### 3) How do customer purchasing patterns vary by spending and order frequency?
+
+### Key Findings
+
+### 4) Can customers be grouped into distinct segments based on purchasing behavior?
+
+### Key Findings
+
+## Methods
+
+- Data cleaning and preparation in Microsoft Excel
+- SQL analysis in Microsoft Access
+- Exploratory data analysis in Python
+- Data visualization using Python libraries
+- Customer segmentation using K-Means clustering
+- Interpretation of customer behavior and segmentation results
+
+## Tools and Technologies
+
+- Microsoft Excel
+- Microsoft Access
+- SQL
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
