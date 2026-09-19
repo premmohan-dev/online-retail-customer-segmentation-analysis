@@ -20,3 +20,24 @@ This analysis uses the Online Retail II dataset from the UCI Machine Learning Re
 The data contains transactional data from a UK-based, registered, non-store online retail business between December 1, 2009 and December 9, 2011. The company primarily sells unique all-occasion giftware products, and many of its customers are wholesalers.
 
 The dataset includes over 1 million transaction records and contains detailed information about customer purchases, products, quantities sold, pricing, transaction dates, and customer locations. It is commonly used for business analytics, customer behavior analysis, sales analysis, and customer segmentation.
+
+### Key Variables
+
+- Invoice Number (InvoiceNo)
+- Product Code (StockCode)
+- Product Description
+- Quantity Purchased
+- Invoice Date
+- Unit Price
+- Customer ID
+- Country
+
+### Additional Variables
+
+- Revenue
+- Total Customer Spend
+- Order Count
+- Average Order Value
+- Customer Segment
+
+The dataset contains some missing values related to customer identification informaiton. This will be addressed during the data preparation process.
