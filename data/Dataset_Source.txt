@@ -1,0 +1,14 @@
+Online Retail II Dataset
+
+Source:
+UCI Machine Learning Repository
+
+Dataset:
+Online Retail II
+
+URL:
+https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
+Note:
+The original dataset exceeds GitHub's file size limits and is not included in this repository. 
+Download the dataset directly from the UCI Machine Learning Repository using the link above.
