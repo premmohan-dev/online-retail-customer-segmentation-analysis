@@ -41,3 +41,9 @@ The dataset includes over 1 million transaction records and contains detailed in
 - Customer Segment
 
 The dataset contains some missing values related to customer identification informaiton. This will be addressed during the data preparation process.
+
+## Research Questions
+
+### 1) Which countries generate the most sales revenue?
+
+### Key Findings
