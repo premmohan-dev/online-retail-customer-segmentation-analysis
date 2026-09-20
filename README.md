@@ -70,7 +70,11 @@ Customer spending and purchasing activity varied widely across the customer base
 
 ### 4) Can customers be grouped into distinct segments based on purchasing behavior?
 
+<img width="989" height="590" alt="RQ4_CustomerSegmentation" src="https://github.com/user-attachments/assets/ee7e6479-efa2-4974-8a82-c4e3b561d04e" />
+
 ### Key Findings
+
+K-Means clustering identified four distinct customer segments based on spending and purchasing activity. Most customers belonged to lower-spending and lower-activity segments, while smaller groups demonstrated substantially higher spending and purchase frequency. These results suggest that customers exhibit different purchasing behaviors and may benefit from targeted marketing and customer engagement strategies.
 
 ## Methods
 
