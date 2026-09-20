@@ -141,6 +141,7 @@ Overall, the results demonstrate how transaction data can be used to better unde
 5. Export the query results to Microsoft Excel.
 
 ### Alternative Option:
+
 The query results used in the Python analysis are already included in the `data` folder as Excel files. These files can be used directly to reproduce the visualizations and customer segmentation analysis without re-running the Microsoft Access queries.
 
 6. Use the Python scripts in the `python` folder to generate visualizations and perform customer segmentation analysis.
