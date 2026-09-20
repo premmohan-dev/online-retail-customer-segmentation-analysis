@@ -97,6 +97,28 @@ K-Means clustering identified four distinct customer segments based on spending 
 
 ## SQL Analysis
 
+The SQL queries included in this analysis were developed and tested in Microsoft Access. Two years of transaction data were combined into a single dataset and cleaned by removing records with missing customer IDs, negative quantities, and zero-price transactions. SQL was used to calculate sales revenue by country and product, summarize customer purchasing behavior, and prepare the customer-level dataset used for customer segmentation. SQL served as the primary tool for data preparation and aggregation before visualization and clustering analysis.
+
+## Python Analysis
+
+Python was used to create visualizations and perform customer segmentation using K-Means clustering.
+
+### RQ1 Visualization
+
+A horizontal bar chart was created to compare sales revenue across countries. The visualization highlighted the United Kingdom as the company's primary source of revenue.
+
+### RQ2 Visualization
+
+A horizontal bar chart was developed to display the products generating the highest sales revenue. The chart helped identify the retailer's most successful products and product categories.
+
+### RQ3 Visualization
+
+A scatter plot was created to examine the relationship between customer spending and purchasing activity. The visualization showed that while most customers spent relatively little and made fewer purchases, a smaller group of customers generated substantially higher spending and purchase counts.
+
+### RQ4 Customer Segmentation
+
+K-Means clustering was applied using customer spending and purchase activity data. Customer segmentation identified four customer groups based on spending and purchase activity. Most customers spent less and made fewer purchases, while a smaller group of customers spent more and purchased more often. This shows that customers have different purchasing behaviors and can be grouped into distinct segments.
+
 ## Conclusion
 
 ## How to Use This Project
