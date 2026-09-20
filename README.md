@@ -60,6 +60,8 @@ The REGENCY CAKESTAND 3 TIER generated the highest sales revenue at £286,486.30
 
 ### Key Findings
 
+Customer spending and purchasing activity varied widely across the customer base. While many customers made relatively few purchases, a small group of customers generated substantially higher spending and purchase counts. These differences suggest that customers can be grouped into distinct segments based on their purchasing behavior.
+
 ### 4) Can customers be grouped into distinct segments based on purchasing behavior?
 
 ### Key Findings
