@@ -46,6 +46,8 @@ The dataset contains some missing values related to customer identification info
 
 ### 1) Which countries generate the most sales revenue?
 
+<img width="989" height="590" alt="RQ1_CountryRevenue" src="https://github.com/user-attachments/assets/5cb30058-78e7-409f-9556-6a18fe058a97" />
+
 ### Key Findings
 
 The United Kingdom generated the most sales revenue by a wide margin, bringing in approximately £14.7 million. The next highest-revenue countries were EIRE (£621,631) and the Netherlands (£554,232), but their sales were much lower than those of the United Kingdom. Overall, most sales came from customers located in the United Kingdom.
