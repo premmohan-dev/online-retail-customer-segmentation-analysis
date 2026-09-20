@@ -48,6 +48,8 @@ The dataset contains some missing values related to customer identification info
 
 ### Key Findings
 
+The United Kingdom generated the most sales revenue by a wide margin, bringing in approximately £14.7 million. The next highest-revenue countries were EIRE (£621,631) and the Netherlands (£554,232), but their sales were much lower than those of the United Kingdom. Overall, most sales came from customers located in the United Kingdom.
+
 ### 2) Which products generate the highest sales revenue?
 
 ### Key Findings
