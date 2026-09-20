@@ -62,6 +62,8 @@ The REGENCY CAKESTAND 3 TIER generated the highest sales revenue at £286,486.30
 
 ### 3) How do customer purchasing patterns vary by spending and order frequency?
 
+<img width="989" height="590" alt="RQ3_CustomerBehavior" src="https://github.com/user-attachments/assets/64e573f5-60f8-458d-806c-b29f3f60e39d" />
+
 ### Key Findings
 
 Customer spending and purchasing activity varied widely across the customer base. While many customers made relatively few purchases, a small group of customers generated substantially higher spending and purchase counts. These differences suggest that customers can be grouped into distinct segments based on their purchasing behavior.
