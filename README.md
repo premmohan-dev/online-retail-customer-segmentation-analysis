@@ -139,10 +139,9 @@ Overall, the results demonstrate how transaction data can be used to better unde
 3. Run the queries in `Data_Preparation.sql` to combine and clean the transaction data.
 4. Execute the SQL queries in the `sql` folder to answer Research Questions 1 through 3.
 5. Export the query results to Microsoft Excel.
+6. Use the Python scripts in the `python` folder to generate visualizations and perform customer segmentation analysis.
+7. Review the charts and findings to understand sales performance, customer purchasing behavior, and customer segments within the online retail dataset.
 
 ### Alternative Option:
 
 The query results used in the Python analysis are already included in the `data` folder as Excel files. These files can be used directly to reproduce the visualizations and customer segmentation analysis without re-running the Microsoft Access queries.
-
-6. Use the Python scripts in the `python` folder to generate visualizations and perform customer segmentation analysis.
-7. Review the charts and findings to understand sales performance, customer purchasing behavior, and customer segments within the online retail dataset.
