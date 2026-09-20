@@ -134,8 +134,6 @@ Overall, the results demonstrate how transaction data can be used to better unde
 
 ## How to Use This Project
 
-## How to Use This Project
-
 1. Download the Online Retail II dataset from the UCI Machine Learning Repository (link provided in `data` folder).
 2. Import both dataset worksheets into Microsoft Access.
 3. Run the queries in `Data_Preparation.sql` to combine and clean the transaction data.
