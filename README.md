@@ -121,4 +121,30 @@ K-Means clustering was applied using customer spending and purchase activity dat
 
 ## Conclusion
 
+This analysis examined over 1 million online retail transactions to explore sales performance, customer purchasing behavior, and customer segmentation.
+
+The key findings were:
+
+1. The United Kingdom generated the highest sales revenue by a substantial margin, accounting for the majority of revenue in the dataset.
+2. Decorative giftware and home decor products were among the highest-revenue items sold by the retailer.
+3. Customer spending and purchasing activity varied considerably across the customer base, with a small number of customers generating significantly higher spending and purchase activity.
+4. Customer segmentation identified four distinct customer groups based on spending and purchasing behavior.
+
+Overall, the results demonstrate how transaction data can be used to better understand sales performance, customer behavior, and customer segments. These insights can support business decisions related to product strategy, customer engagement, and targeted marketing efforts.
+
 ## How to Use This Project
+
+## How to Use This Project
+
+1. Download the Online Retail II dataset from the UCI Machine Learning Repository (link provided in `data` folder).
+2. Import both dataset worksheets into Microsoft Access.
+3. Run the queries in `Data_Preparation.sql` to combine and clean the transaction data.
+4. Execute the SQL queries in the `sql` folder to answer Research Questions 1 through 3.
+5. Export the query results to Microsoft Excel.
+
+### Alternative Option
+
+The query results used in the Python analysis are already included in the `data` folder as Excel files. These files can be used directly to reproduce the visualizations and customer segmentation analysis without re-running the Microsoft Access queries.
+
+6. Use the Python scripts in the `python` folder to generate visualizations and perform customer segmentation analysis.
+7. Review the charts and findings to understand sales performance, customer purchasing behavior, and customer segments within the online retail dataset.
