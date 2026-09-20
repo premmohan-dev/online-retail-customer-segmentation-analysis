@@ -54,6 +54,8 @@ The United Kingdom generated the most sales revenue by a wide margin, bringing i
 
 ### Key Findings
 
+The REGENCY CAKESTAND 3 TIER generated the highest sales revenue at £286,486.30, followed by the WHITE HANGING HEART T-LIGHT HOLDER at £252,072.46. Several of the highest-revenue products were decorative giftware and home décor items, suggesting these products were among the retailer's most successful offerings.
+
 ### 3) How do customer purchasing patterns vary by spending and order frequency?
 
 ### Key Findings
